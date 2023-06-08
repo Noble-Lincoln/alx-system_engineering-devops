@@ -1,1 +1,1 @@
-pwd
+Exists and is not empty
